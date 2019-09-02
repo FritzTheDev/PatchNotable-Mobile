@@ -1,68 +1,31 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# PatchNotable.gg
+## League Of Legends Patch Notes Alerts & Archive
 
-## Available Scripts
+### Description
+#### Introduction
+If you're not terribly famiilar with online videogames, start here.
 
-In the project directory, you can run:
+[League of Legends](https://www.leagueoflegends.com) is a wildly popular online video game. It's frequently updated in an effort to keep the game fresh and gameplay-balanced. The developers, [Riot Games](https://www.riotgames.com), release patch notes [like this](https://na.leagueoflegends.com/en/news/game-updates/patch/patch-915-notes) to update players on the new "rules" of the game, along with bug fixes and the like. Players who understand the "current" state of the game & keep up with the changes are more likely to be successful in-game.
 
-### `npm start`
+#### The Problem
+Patch notes come out every two weeks (or so) and have a bias towards completeness at the expense of brevity. It can take as much as 10 minutes to read through a page of Patch Notes. When that time would be spent playing videogames, many players decide it's not worth the effort & continue on uninformed.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#### How PatchNotable.gg Helps
+The app lets League players pick & choose what parts of the patch notes they want to be informed on. A player might ask the app, "Only show me the changes to characters I play" (They'd select their "Interest Categories" manually from a list)
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+This way they'll stay informed about the things that matter to them without having to go looking for the information & having to slog through a lot of changes they don't care about.
 
-### `npm test`
+## Employers
+#### Hello!
+I'm looking for my next position! I work as "The (only) Website Guy" in my current role & I'd really prefer to work with people who share my passion for web dev. I'm a primarily self-taught React (React-DOM! miss me with that native $#!&) dev. I've been learning web development since January '18, and I'm looking for my next role. My "First Choice" tool of the trade is React with Redux, and I've got a decent but not exceptionally extensive grasp of building Node/Express/Mongo backends. I'm currently on the lookout for a frontend role, ideally working with React or Angular.
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### This App Uses...
+- React (Library For Creating Views)
+- Redux (Application-Wide Predictable State Management)
+- React-Redux (Wires Redux To A React Context)
+- Redux-Thunk (Async Redux Actions)
+- Axios (HTTP Requests)
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+#### With a backed comprising of...
+- Express.js
+- MongoDB (Wrapped by Mongoose ODM)
