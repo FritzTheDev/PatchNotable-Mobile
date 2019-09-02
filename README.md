@@ -28,3 +28,5 @@ I'm looking for my next position! I work as "The (only) Website Guy" in my curre
 #### With a backed comprising of...
 - Express.js
 - MongoDB (Wrapped by Mongoose ODM)
+
+[Development Notes](https://github.com/OttoVBismarck/PatchNotable-Mobile/blob/master/dev-notes.md)
