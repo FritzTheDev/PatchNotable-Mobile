@@ -29,4 +29,4 @@ I'm looking for my next position! I work as "The (only) Website Guy" in my curre
 - Express.js
 - MongoDB (Wrapped by Mongoose ODM)
 
-[Development Notes](https://github.com/OttoVBismarck/PatchNotable-Mobile/blob/master/dev-notes.md)
+## [Development Notes](https://github.com/OttoVBismarck/PatchNotable-Mobile/blob/master/dev-notes.md)
