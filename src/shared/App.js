@@ -1,5 +1,5 @@
 /* 
-`* App.js
+`* shared/App.js
 `*
  * Top of the component tree.
  * It handles providers for Redux && Routing.
