@@ -1,11 +1,11 @@
 /* 
-`* shared/App.js
+`* App.js
 `*
  * Top of the component tree.
  * It handles providers for Redux && Routing.
- * Also renders the Layout component.
+ * Also Renders Layout Component
  *
- */
+*/
 
 import React from 'react';
 
