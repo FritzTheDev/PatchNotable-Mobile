@@ -1,7 +1,6 @@
 # PatchNotable.gg
 ## League Of Legends Patch Notes Alerts & Archive
 
-### Description
 #### Introduction
 If you're not terribly famiilar with online videogames, start here.
 
